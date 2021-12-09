@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>bzugmb</name>
+      <description lang="en">Bzu-gmb repository for gentoo</description>
+        <homepage>https://github.com/Albert753258/bzu-gmb-repo</homepage>
+        <owner type="person">
+            <name>Albert</name>
+            <email>albert.nasyrov2016@gmail.com</email>
+        </owner>
+        <source type="git">git://github.com/Albert753258/bzu-gmb-repo.git</source>
+  </repo>
+</repositories>
