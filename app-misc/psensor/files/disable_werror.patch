@@ -1,0 +1,11 @@
+--- a/src/lib/Makefile
++++ b/src/lib/Makefile
+@@ -379,7 +379,7 @@
+ 	$(am__append_1) $(am__append_3) $(am__append_6) \
+ 	$(am__append_9) $(am__append_10) $(am__append_13) \
+ 	$(am__append_16)
+-AM_CPPFLAGS = -Wall -Werror $(am__append_5) $(am__append_8) \
++AM_CPPFLAGS = -Wall$(am__append_5) $(am__append_8) \
+ 	$(am__append_12) $(am__append_15) $(am__append_18)
+ EXTRA_DIST = $(libpsensor_a_SOURCES) \
+ 	amd.c \
